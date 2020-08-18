@@ -17,7 +17,7 @@ const Layout = ({ children, site }) => (
                 {site.siteMetadata.siteName}
               </Link>*/}
               <Link to="/">
-                Coraplar Diyariii
+                Coraplar Cenneti
               </Link>
             </h1>
             <div className="Header__summary snipcart-summary snipcart-checkout">
